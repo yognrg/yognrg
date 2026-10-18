@@ -1,85 +1,70 @@
 <div align="center">
 
-Yog Urkundwar
+# Yog Urkundwar
 
-Product Designer × Design Engineer
+Product Designer • Design Engineer
 
-I design thoughtful digital experiences and bring them to life through interaction, prototyping, and code.
-
-Portfolio · LinkedIn
+Designing B2B, B2C, SaaS and fintech products by day, building playful side projects in Figma and code on weekends.
 
 </div>
 
-⸻
+---
 
-About
+## About
 
-I’m a Product Designer and Design Engineer interested in the intersection of design, technology, and product thinking.
+I'm a product designer and design engineer based in Pune, India. I work end to end on B2B, B2C, SaaS and fintech products, and I bring my designs to life in code.
 
-I enjoy turning complex problems into intuitive interfaces, building scalable design systems, and experimenting with code to make digital experiences feel more alive.
+My interests sit at the intersection of product design, design systems, and creative coding. I love prototyping iOS style interactions, building AI powered tools, and turning ideas into things people can actually click.
 
-* Working on fintech and digital product experiences
-* Exploring design engineering, creative coding, and AI-powered workflows
-* Interested in interaction design, prototyping, and design systems
-* Based in Pune, India
+---
 
-Tools & Technologies
+## Tech Stack
 
-<div align="center">
+### Design
 
-Design
+<p>
+  <img src="./icons/figma.svg" alt="Figma" title="Figma" width="48" height="48" />&nbsp;
+  <img src="./icons/framer.svg" alt="Framer" title="Framer" width="48" height="48" />&nbsp;
+  <img src="./icons/canva.svg" alt="Canva" title="Canva" width="48" height="48" />
+</p>
 
-  
-  
-  
-  
-Development
+### AI
 
-  
-  
-  
-</div>
+<p>
+  <img src="./icons/claude.svg" alt="Claude" title="Claude" width="48" height="48" />&nbsp;
+  <img src="./icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" width="48" height="48" />&nbsp;
+  <img src="./icons/lovable.svg" alt="Lovable" title="Lovable" width="48" height="48" />&nbsp;
+  <img src="./icons/aistudio.svg" alt="Google AI Studio" title="Google AI Studio" width="48" height="48" />
+</p>
 
-Selected Work
+### Dev
 
-01. Flow Pay — Personal Finance App
+<p>
+  <img src="./icons/github.svg" alt="GitHub" title="GitHub" width="48" height="48" />&nbsp;
+  <img src="./icons/vercel.svg" alt="Vercel" title="Vercel" width="48" height="48" />
+</p>
 
-A UPI-based finance experience focused on transaction visibility, spending clarity, and better saving habits.
+---
 
-02. Kalo — Product Design
+## Current Focus
 
-A freelance project involving app and website improvements, new product features, and a design system built from scratch.
+- Product Design
+- Design Systems
+- iOS and SwiftUI Interactions
+- AI Interfaces and Tools
+- Prototyping with Figma and Claude
+- Creative Coding (GSAP, Three.js)
 
-03. Taskstracker — SaaS CRM
+---
 
-Website UI and dashboard design for a customizable CRM platform serving multiple industries.
-
-04. Krida Club — Sports Community
-
-A product concept exploring how digital experiences can help sports enthusiasts discover, connect, and participate.
-
-Explore more on my portfolio.
-
-Currently Exploring
-
-* Design engineering and creative development
-* AI-assisted design and rapid prototyping
-* Motion design and micro-interactions
-* Scalable design systems and component architecture
-* Product thinking and problem discovery
-
-Beyond the Screen
-
-Outside design, I enjoy reading books, watching movies, and capturing moments through photography. I’m curious about how things work and how thoughtful details can make everyday digital experiences better.
-
-⸻
+## Connect
 
 <div align="center">
 
-Let’s build something meaningful.
+[Portfolio](https://yogportfolio.framer.website) • [LinkedIn](https://www.linkedin.com/in/yognrg/) • [Email](mailto:yogurkundwar.work@gmail.com)
 
-Portfolio · LinkedIn
+---
 
-Designed with curiosity. Built with intention.
+Designing products with clarity, craft, and a little bit of play.
 
 </div>
